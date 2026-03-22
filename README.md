@@ -61,7 +61,7 @@ The application provides an interactive web interface where users can input pass
 git clone https://github.com/Engr-Yasin-ai-04/titanic-survival-prediction.git
 cd titanic-survival-prediction
 
-## 📞 Contact & Support
+### 📞 Contact & Support
 
 **Author:** Engr Muhammad Yasin Khan  
 **GitHub:** [Engr-Yasin-ai-04](https://github.com/Engr-Yasin-ai-04)  
