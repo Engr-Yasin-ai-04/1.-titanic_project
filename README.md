@@ -59,14 +59,14 @@ The application provides an interactive web interface where users can input pass
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Engr-Yasin-ai-04/titanic-survival-prediction.git
-cd titanic-survival-prediction
+cd titanic-survival-prediction.
 
-### Contact & Support
-**Author:** Engr Muhammad Yasin Khan  
-**GitHub:** [Engr-Yasin-ai-04](https://github.com/Engr-Yasin-ai-04)  
-**Support:** Use GitHub Issues  
 
-<div align="center">
-Made with ❤️ by Engr Muhammad Yasin Khan
-AI & Machine Learning
-</div>
+<h2 id="license">📄 License</h2>
+<p>MIT License © 2024</p>
+
+<hr>
+
+<h2>👨‍💻 Author</h2>
+<p><strong>Yaseen</strong><br>
+GitHub: <a href="https://github.com/Engr-Yasin-ai-04">@Engr-Yasin-ai-04</a><br>
