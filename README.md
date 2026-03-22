@@ -37,9 +37,14 @@ The application provides an interactive web interface where users can input pass
 
 ## 📸 Screenshots
 
-| GUI Interface | Feature Selection | Prediction Result |
-|---------------|-------------------|-------------------|
-| ![GUI Interface](1_Output_GUI.JPG) | ![Feature Selection](1_Output_Selection.JPG) | ![Prediction Result](2_Output_Program.JPG) |
+## GUI Interface
+![GUI Interface](1_Output_GUI.JPG)
+
+## Feature Selection
+![Feature Selection](1_Output_Selection.JPG)
+
+## Prediction Result
+![Prediction Result](2_Output_Program.JPG)
 
 ## 🚀 Installation & Setup
 
