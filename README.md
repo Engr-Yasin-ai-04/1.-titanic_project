@@ -62,14 +62,15 @@ git clone https://github.com/Engr-Yasin-ai-04/titanic-survival-prediction.git
 cd titanic-survival-prediction
 
 
-<h2>📞 Contact & Support</h2>
-<ul>
-  <li><b>Author:</b> Engr Muhammad Yasin Khan</li>
-  <li><b>GitHub:</b> https://github.com/Engr-Yasin-ai-04</li>
-  <li><b>Support:</b> Use GitHub Issues</li>
-</ul>
+## 📞 Contact & Support
+
+- **Author:** Engr Muhammad Yasin Khan  
+- **GitHub:** [Engr-Yasin-ai-04](https://github.com/Engr-Yasin-ai-04)  
+- **Support:** Use GitHub Issues  
+
+---
 
 <p align="center">
-<b>Made with ❤️ by Engr Muhammad Yasin Khan</b><br>
-AI & Machine Learning
+  <b>Made with ❤️ by Engr Muhammad Yasin Khan</b><br>
+  AI & Machine Learning
 </p>
