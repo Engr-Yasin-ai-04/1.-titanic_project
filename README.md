@@ -10,63 +10,62 @@ A complete Machine Learning web application that predicts passenger survival on 
 ## 📊 Project Overview
 
 This project uses the classic Titanic dataset to predict whether a passenger survived the Titanic disaster based on features like:
-- Age
-- Gender
-- Passenger Class
-- Fare
-- Number of siblings/spouses aboard
-- Number of parents/children aboard
-- Embarkation port
+- **Age, Gender, and Passenger Class**
+- **Fare and Embarkation port**
+- **Family size (Siblings/Spouses/Parents/Children)**
 
 The application provides an interactive web interface where users can input passenger details and get real-time survival predictions.
 
 ## 🎯 Features
 
-- ✅ **Data Preprocessing**: Handles missing values, encodes categorical variables, and scales numerical features
-- ✅ **Multiple ML Models**: Implements various algorithms including Logistic Regression, Random Forest, SVM, and Decision Trees
-- ✅ **Model Persistence**: Saves trained model using pickle for efficient predictions
-- ✅ **Interactive Web Interface**: User-friendly form to input passenger details
-- ✅ **Real-time Predictions**: Instant survival predictions with probability scores
-- ✅ **Model Evaluation**: Displays accuracy, precision, recall, and confusion matrix
-- ✅ **Responsive Design**: Works on desktop and mobile devices
+- ✅ **Data Preprocessing**: Handles missing values and scales numerical features.
+- ✅ **Multiple ML Models**: Logistic Regression, Random Forest, SVM, and Decision Trees.
+- ✅ **Model Persistence**: Saves trained models using `pickle` for instant loading.
+- ✅ **Interactive Web Interface**: User-friendly form built with Django.
+- ✅ **Responsive Design**: Works on desktop and mobile devices.
+
+---
 
 ## 🏗️ Project Structure
 
-![GUI Interface](Program_Structure_Image.JPG)
-
+![Structure](Program_Structure_Image.JPG)
 
 ## 📸 Screenshots
 
-## GUI Interface
+### GUI Interface
 ![GUI Interface](1_Output_GUI.JPG)
 
-## Feature Selection
+### Feature Selection
 ![Feature Selection](1_Output_Selection.JPG)
 
-## Prediction Result
+### Prediction Result
 ![Prediction Result](2_Output_Program.JPG)
+
+---
 
 ## 🚀 Installation & Setup
 
 ### Prerequisites
-
-- Python 3.9 or higher
-- pip package manager
-- Git (optional)
+* Python 3.9+
+* pip package manager
 
 ### Step-by-Step Installation
 
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Engr-Yasin-ai-04/titanic-survival-prediction.git
-cd titanic-survival-prediction.
+cd titanic-survival-prediction
 
+Install dependencies
 
-<h2 id="license">📄 License</h2>
-<p>MIT License © 2024</p>
+Bash
+pip install -r requirements.txt
+Run the Server
 
-<hr>
+Bash
+python manage.py runserver
+📄 License
+MIT License © 2024
 
-<h2>👨‍💻 Author</h2>
-<p><strong>Yaseen</strong><br>
-GitHub: <a href="https://github.com/Engr-Yasin-ai-04">@Engr-Yasin-ai-04</a><br>
+👨‍💻 Author
+Yaseen GitHub: @Engr-Yasin-ai-04
