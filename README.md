@@ -32,32 +32,7 @@ The application provides an interactive web interface where users can input pass
 
 ## 🏗️ Project Structure
 
-titanic_project/
-├── manage.py
-├── db.sqlite3
-├── requirements.txt
-├── data/
-│ └── train.csv # Titanic training dataset
-├── predictor/
-│ ├── init.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py # Database models
-│ ├── views.py # Web views and logic
-│ ├── urls.py # URL routing
-│ ├── ml_model.py # ML model training and prediction
-│ ├── forms.py # Django forms
-│ ├── titanic_model.pkl # Saved trained model
-│ ├── static/ # Static files (CSS, JS)
-│ └── templates/
-│ └── predictor/
-│ └── index.html # Main application interface
-└── titanic_project/
-├── init.py
-├── settings.py # Django project settings
-├── urls.py # Main URL configuration
-├── asgi.py
-└── wsgi.py
+![GUI Interface](Program_Structure_Image.JPG)
 
 
 ## 📸 Screenshots
