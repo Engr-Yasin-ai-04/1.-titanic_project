@@ -7,6 +7,8 @@
 
 A complete Machine Learning web application that predicts passenger survival on the Titanic using various ML algorithms. Built with Django and deployed with a beautiful user interface.
 
+---
+
 ## 📊 Project Overview
 
 This project uses the classic Titanic dataset to predict whether a passenger survived the Titanic disaster based on features like:
@@ -15,6 +17,8 @@ This project uses the classic Titanic dataset to predict whether a passenger sur
 - **Family size (Siblings/Spouses/Parents/Children)**
 
 The application provides an interactive web interface where users can input passenger details and get real-time survival predictions.
+
+---
 
 ## 🎯 Features
 
@@ -29,6 +33,8 @@ The application provides an interactive web interface where users can input pass
 ## 🏗️ Project Structure
 
 ![Structure](Program_Structure_Image.JPG)
+
+---
 
 ## 📸 Screenshots
 
@@ -46,23 +52,13 @@ The application provides an interactive web interface where users can input pass
 ## 🚀 Installation & Setup
 
 ### Prerequisites
-* Python 3.9+
-* pip package manager
+- Python 3.9+
+- pip package manager
 
 ### Step-by-Step Installation
 
 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/Engr-Yasin-ai-04/titanic-survival-prediction.git
-cd titanic-survival-prediction ```
- 
-### Contact & Support
-**Author:** Engr Muhammad Yasin Khan  
-**GitHub:** [Engr-Yasin-ai-04](https://github.com/Engr-Yasin-ai-04)  
-**Support:** Use GitHub Issues  
-
-<div align="center">
-Made with ❤️ by Engr Muhammad Yasin Khan
-AI & Machine Learning
-</div>
-
+cd titanic-survival-prediction
