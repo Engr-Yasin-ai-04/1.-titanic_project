@@ -60,3 +60,16 @@ The application provides an interactive web interface where users can input pass
 ```bash
 git clone https://github.com/Engr-Yasin-ai-04/titanic-survival-prediction.git
 cd titanic-survival-prediction
+
+
+<h2>📞 Contact & Support</h2>
+<ul>
+  <li><b>Author:</b> Engr Muhammad Yasin Khan</li>
+  <li><b>GitHub:</b> https://github.com/Engr-Yasin-ai-04</li>
+  <li><b>Support:</b> Use GitHub Issues</li>
+</ul>
+
+<p align="center">
+<b>Made with ❤️ by Engr Muhammad Yasin Khan</b><br>
+AI & Machine Learning
+</p>
